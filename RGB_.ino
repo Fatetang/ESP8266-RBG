@@ -5,7 +5,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // key，在点灯 App 中获取
-char auth[] = "57844a09ccf9";
+char auth[] = "xxxxx";
 //  DIN PIN (GPIO15, D8)
 #define PIN 15
 // 灯带 LED 数量

@@ -84,9 +84,9 @@ int st_count;
 
 
 /////////////////////////////////////修改blinker设备的授权码、设备所在环境的wifi、wifi密码
-char auth[] = "6d3efcbb2adc";
-char ssid[] = "TP-LINK";
-char pswd[] = "TANG1808494756";
+char auth[] = "xxxxxx";
+char ssid[] = "xxxxx";
+char pswd[] = "xxxx";
 
 ////////////////////////////////////////五个开关按键 一个滑条 一个调色盘
 BlinkerButton Button1("ButtonKey1");
